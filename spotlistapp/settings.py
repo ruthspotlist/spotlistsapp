@@ -25,7 +25,7 @@ SECRET_KEY = 'as!$cib5l-c+41o+m(h&-bvoo%lq3b*(y-nnzw)db8#x^$!$2)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ruth-env.eba-dam6uatp.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['ruth-env.eba-dam6uatp.us-west-2.elasticbeanstalk.com', '127.0.0.1']
 
 
 # Application definition
